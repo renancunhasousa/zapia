@@ -1,0 +1,908 @@
+{
+    "keys": {
+        "rows": [
+            {
+                "key": "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",
+                "queries": 59,
+                "balance": 0.04493,
+                "tokens": 22465
+            }
+        ],
+        "name": "keys"
+    },
+    "conversations": {
+        "rows": [
+            {
+                "id": "cf9225c8-2f9f-482e-b249-dddb9e7c7a1b",
+                "userName": "User",
+                "messages": [
+                    {
+                        "id": "a3b22497-cd43-4de6-bf2f-f540958976a2",
+                        "content": "oi",
+                        "type": 1,
+                        "date": 1682296650807
+                    },
+                    {
+                        "id": "363fff33-2434-49f6-a659-072aa99e8a7c",
+                        "content": "Hello! How can I assist you today?",
+                        "type": 2,
+                        "date": 1682296652380
+                    },
+                    {
+                        "id": "02dbd991-963c-45d9-a77b-fae62a5549ec",
+                        "content": "oi",
+                        "type": 1,
+                        "date": 1682296671014
+                    },
+                    {
+                        "id": "b984530f-5c8b-40d7-a322-f4ea4956c8d7",
+                        "content": "Hello! How can I assist you today?",
+                        "type": 2,
+                        "date": 1682296677155
+                    },
+                    {
+                        "id": "70e0a027-5c36-4b4c-a2b4-33fb4f4e0937",
+                        "content": "quem é o atual presidente do brasil",
+                        "type": 1,
+                        "date": 1682296685957
+                    },
+                    {
+                        "id": "f8f287cd-e27d-4cf2-bba7-3e19944aa0dc",
+                        "content": "O atual presidente do Brasil é Jair Bolsonaro.",
+                        "type": 2,
+                        "date": 1682296687165
+                    },
+                    {
+                        "id": "7384463b-6751-46be-a11d-d61f2e819216",
+                        "content": "qual sua base de dado",
+                        "type": 1,
+                        "date": 1682296693561
+                    },
+                    {
+                        "id": "40503cd0-0e79-4277-86cb-d8f9a632b5b7",
+                        "content": "Minha base de dados é composta por uma ampla variedade de fontes de texto da internet, incluindo artigos, notícias, livros, fóruns de discussão, entre outros. Esses dados são utilizados para me treinar e me ajudar a gerar respostas para as perguntas que me são feitas. No entanto, é importante lembrar que minha base de dados tem um corte temporal até setembro de 2021 e pode haver informações mais recentes que eu não tenha conhecimento.",
+                        "type": 2,
+                        "date": 1682296700596
+                    }
+                ],
+                "lastActive": 1682296693562
+            },
+            {
+                "id": "e85fba1e-be26-4c2f-9ead-9f9e868f3218",
+                "userName": "User",
+                "messages": [
+                    {
+                        "id": "a97b9ad3-373d-43b0-8a7f-0a6fd7f77456",
+                        "content": "qual minha ultima msg",
+                        "type": 1,
+                        "date": 1682296721331
+                    },
+                    {
+                        "id": "22578403-7065-4da9-b050-26f04245e768",
+                        "content": "Desculpe, mas eu não tenho acesso às suas mensagens, pois sou apenas um modelo de linguagem e não estou conectado ao seu dispositivo ou contas pessoais. Minha função é responder perguntas e fornecer informações sobre uma ampla variedade de tópicos. Posso ajudá-lo com alguma outra coisa?",
+                        "type": 2,
+                        "date": 1682296725575
+                    },
+                    {
+                        "id": "9412b6c4-2ffd-4f2d-890d-cdfbbde75334",
+                        "content": "ok",
+                        "type": 1,
+                        "date": 1682296790210
+                    },
+                    {
+                        "id": "1a130290-b6cd-4425-b6bb-b74fa1e0ff28",
+                        "content": "Ótimo! Em que posso ajudar?",
+                        "type": 2,
+                        "date": 1682296791430
+                    },
+                    {
+                        "id": "3313a75d-457d-4f3f-b70a-579a373e518a",
+                        "content": "em q vc pode me ajuda",
+                        "type": 1,
+                        "date": 1682296810903
+                    },
+                    {
+                        "id": "e28c14f6-fd25-484f-bcf0-77cee52dcbbe",
+                        "content": "Posso ajudá-lo a responder perguntas, fornecer informações, esclarecer dúvidas ou ajudá-lo a encontrar soluções para problemas em uma ampla variedade de tópicos. Você pode fazer perguntas sobre assuntos como ciência, tecnologia, história, geografia, cultura, entre outros. Estou aqui para ajudá-lo no que puder. Qual é a sua dúvida?",
+                        "type": 2,
+                        "date": 1682296816536
+                    },
+                    {
+                        "id": "e5c6c5a1-c400-453e-bd79-b2da77d954df",
+                        "content": "oi",
+                        "type": 1,
+                        "date": 1682298576468
+                    },
+                    {
+                        "id": "4d112550-43e7-40ab-a186-e28baedc2b50",
+                        "content": "Olá! Como posso ajudá-lo hoje?",
+                        "type": 2,
+                        "date": 1682298577827
+                    }
+                ],
+                "lastActive": 1682298576469
+            },
+            {
+                "id": "718c75e5-a52b-4cda-b840-392cb2cc629a",
+                "userName": "User",
+                "messages": [
+                    {
+                        "id": "b0ef5970-f1cd-4dac-90b0-2aaa6a47d0c5",
+                        "content": "bom dia",
+                        "type": 1,
+                        "date": 1682296894874
+                    },
+                    {
+                        "id": "4fd1b2ee-437a-4bcb-8216-90a380cea0d7",
+                        "content": "Bom dia! Em que posso ajudar?",
+                        "type": 2,
+                        "date": 1682296896286
+                    }
+                ],
+                "lastActive": 1682296894875
+            },
+            {
+                "id": "e1887158-4476-438d-9be0-3f8e14b94a2e",
+                "userName": "User",
+                "messages": [
+                    {
+                        "id": "5a471312-c64f-4a15-bfdf-8e002b835c8d",
+                        "content": "Como fala em inglês\n\nEstes acontecimentos",
+                        "type": 1,
+                        "date": 1682333626526
+                    },
+                    {
+                        "id": "435dfe4d-4344-40cf-a6b6-44b23fcde060",
+                        "content": "\"Estes acontecimentos\" se traduz para o inglês como \"these events\".",
+                        "type": 2,
+                        "date": 1682333630296
+                    },
+                    {
+                        "id": "4c573756-b413-40cc-8ac1-fe1b6abc165a",
+                        "content": "O que é concern",
+                        "type": 1,
+                        "date": 1682333661348
+                    },
+                    {
+                        "id": "b55dc66d-df10-4e92-a63e-8032bc404435",
+                        "content": "\"Concern\" é uma palavra em inglês que pode ser usada como um substantivo ou um verbo. Como substantivo, \"concern\" significa preocupação, interesse ou assunto que é importante para alguém. Como verbo, \"concern\" significa se preocupar com algo ou alguém, estar relacionado a algo ou alguém, ou ter importância para algo ou alguém.",
+                        "type": 2,
+                        "date": 1682333668553
+                    },
+                    {
+                        "id": "ce05b5a0-da97-49b2-bcb9-1f729688ef4d",
+                        "content": "Como fala em inglês eles não sabiam",
+                        "type": 1,
+                        "date": 1682333739477
+                    },
+                    {
+                        "id": "b177b7e5-c354-4abe-aa49-eb569a941f58",
+                        "content": "\"Eles não sabiam\" se traduz para o inglês como \"They didn't know\".",
+                        "type": 2,
+                        "date": 1682333741915
+                    },
+                    {
+                        "id": "96c2bbb9-4d8f-4111-8eb4-9ea81e2f772f",
+                        "content": "Como fala apesar em inglês",
+                        "type": 1,
+                        "date": 1682333797674
+                    },
+                    {
+                        "id": "1d2edff7-78c8-4f9b-a966-9876fb7e5840",
+                        "content": "\"Apesar\" pode ser traduzido para o inglês como \"despite\" ou \"although\". Por exemplo:\n\n- Despite the rain, we went for a walk. (Apesar da chuva, fomos dar uma caminhada.)\n- Although he was tired, he stayed up late to finish his work. (Apesar de estar cansado, ele ficou acordado até tarde para terminar o trabalho.)",
+                        "type": 2,
+                        "date": 1682333805648
+                    },
+                    {
+                        "id": "cd6d7c7b-7fd8-4f58-aba6-989508cfc700",
+                        "content": "A empresa ter falado",
+                        "type": 1,
+                        "date": 1682333830237
+                    },
+                    {
+                        "id": "b6f8a433-7895-49ec-9f90-5f7800f20510",
+                        "content": "\"A empresa ter falado\" não é uma frase completa em português, portanto não é possível fornecer uma tradução precisa para o inglês sem mais contexto. Por favor, forneça mais informações ou uma frase completa para que eu possa ajudá-lo melhor.",
+                        "type": 2,
+                        "date": 1682333835736
+                    },
+                    {
+                        "id": "602365f3-a727-4842-9a29-5095c11a3fbb",
+                        "content": "Como fala em inglês\n\nA empresa ter falado algo",
+                        "type": 1,
+                        "date": 1682333851109
+                    },
+                    {
+                        "id": "7419b945-1a4d-4c02-9460-387a03425685",
+                        "content": "\"A empresa ter falado algo\" pode ser traduzido para o inglês como \"The company said something\".",
+                        "type": 2,
+                        "date": 1682333854037
+                    },
+                    {
+                        "id": "a389a365-05a6-4669-aa84-d51f28c1674e",
+                        "content": "Dispensar funcionário",
+                        "type": 1,
+                        "date": 1682333881056
+                    },
+                    {
+                        "id": "be4947b3-ec19-4e9b-83b6-e410baa29d8b",
+                        "content": "\"Dispensar funcionário\" pode ser traduzido para o inglês como \"to dismiss an employee\" ou \"to lay off an employee\".",
+                        "type": 2,
+                        "date": 1682333884905
+                    },
+                    {
+                        "id": "f9d3f369-ff3f-44a9-b66c-b44cd635577f",
+                        "content": "Eles não iriam",
+                        "type": 1,
+                        "date": 1682333932315
+                    },
+                    {
+                        "id": "3d38f6ef-66cb-422c-a72f-4749326ad6e9",
+                        "content": "\"Eles não iriam\" se traduz para o inglês como \"They wouldn't\".",
+                        "type": 2,
+                        "date": 1682333934347
+                    },
+                    {
+                        "id": "921ee1c0-afc4-4828-9c16-d3bbfc61192d",
+                        "content": "Ninguém",
+                        "type": 1,
+                        "date": 1682333968676
+                    },
+                    {
+                        "id": "a02297cd-b72b-41fd-a960-6e9c5555920f",
+                        "content": "\"Ninguém\" se traduz para o inglês como \"nobody\" ou \"no one\".",
+                        "type": 2,
+                        "date": 1682333970955
+                    },
+                    {
+                        "id": "cec93096-048b-44b0-a9a9-e2c3f82a1bab",
+                        "content": "Estabilidade",
+                        "type": 1,
+                        "date": 1682336487449
+                    },
+                    {
+                        "id": "99c4fd1d-8de9-4e3d-a262-3e5c4bfeb217",
+                        "content": "\"Estabilidade\" se traduz para o inglês como \"stability\".",
+                        "type": 2,
+                        "date": 1682336489902
+                    },
+                    {
+                        "id": "fdad857f-3b43-4d31-b9c8-6f3d0a0d045f",
+                        "content": "Uma certa estabilidade",
+                        "type": 1,
+                        "date": 1682336505436
+                    },
+                    {
+                        "id": "c11720b5-50e5-4f25-9c0e-b56cb068448d",
+                        "content": "\"Uma certa estabilidade\" pode ser traduzido para o inglês como \"a certain stability\".",
+                        "type": 2,
+                        "date": 1682336509036
+                    },
+                    {
+                        "id": "0e9fa409-15db-41b5-be28-0eb3c895ad19",
+                        "content": "Não for preparado",
+                        "type": 1,
+                        "date": 1682336598863
+                    },
+                    {
+                        "id": "ff17432d-5500-4f6c-9a4e-896bdd70b84a",
+                        "content": "\"Não foi preparado\" se traduz para o inglês como \"was not prepared\".",
+                        "type": 2,
+                        "date": 1682336601430
+                    },
+                    {
+                        "id": "838f749d-a4bc-46dd-9181-c181ae1a9df7",
+                        "content": "Não tem tanto reconhecimento no mercado",
+                        "type": 1,
+                        "date": 1682337544276
+                    },
+                    {
+                        "id": "2728e48b-fab2-47eb-91b9-c512fffc873f",
+                        "content": "\"Não tem tanto reconhecimento no mercado\" pode ser traduzido para o inglês como \"It doesn't have much recognition in the market\" ou \"It is not widely recognized in the market\".",
+                        "type": 2,
+                        "date": 1682337548826
+                    },
+                    {
+                        "id": "9e2990db-21e7-457c-92ff-0c9d60e5e0aa",
+                        "content": "Como fala em inglês\n\nSe torna parte",
+                        "type": 1,
+                        "date": 1682356978567
+                    },
+                    {
+                        "id": "b50f84b6-edfd-4b45-bde9-5c03651d6b5f",
+                        "content": "\"Se torna parte\" se traduz para o inglês como \"becomes part\".",
+                        "type": 2,
+                        "date": 1682356980622
+                    }
+                ],
+                "lastActive": 1682356978573
+            },
+            {
+                "id": "a1a50e81-ed05-4ad4-8ec1-65d4725e7b27",
+                "userName": "User",
+                "messages": [
+                    {
+                        "id": "71f97f7f-e02a-46ed-8536-326c2a0dc46a",
+                        "content": "Kkkkkķkkkk",
+                        "type": 1,
+                        "date": 1682355079145
+                    },
+                    {
+                        "id": "410f5ef1-352e-45e9-8bed-c1038835ddd1",
+                        "content": "I'm sorry, but I'm not sure how to respond to that as it doesn't seem to be a meaningful question or prompt. Can I assist you with anything else?",
+                        "type": 2,
+                        "date": 1682355082398
+                    },
+                    {
+                        "id": "4fc15785-08f4-4e67-8cbe-abb1a411df7c",
+                        "content": "Qual a distância da Terra à Lua?",
+                        "type": 1,
+                        "date": 1682356618548
+                    },
+                    {
+                        "id": "8f131894-caa0-4806-a595-285456df4626",
+                        "content": "A distância média entre a Terra e a Lua é de cerca de 384.400 quilômetros.",
+                        "type": 2,
+                        "date": 1682356620667
+                    },
+                    {
+                        "id": "09d77604-b7be-48b9-a063-9a85af3f62f4",
+                        "content": "Chati PT, conte uma piada com um elefante.",
+                        "type": 1,
+                        "date": 1682356707645
+                    },
+                    {
+                        "id": "8817770b-73a3-4669-9095-06fb6a9abcf0",
+                        "content": "Claro, lá vai uma piada com elefante:\n\nPor que o elefante não pega fogo? Porque ele já é cinza!",
+                        "type": 2,
+                        "date": 1682356710491
+                    },
+                    {
+                        "id": "f84cf876-68ef-4bbf-9373-03076f77c5d2",
+                        "content": "Chat GPT, crie uma imagem de um homem de 40 anos correndo na academia em cima de uma esteira. O homem está acima do peso.",
+                        "type": 1,
+                        "date": 1682356989020
+                    },
+                    {
+                        "id": "044a6aba-e666-432b-9cea-a5d3adeb1505",
+                        "content": "Como modelo de linguagem, não sou capaz de criar imagens, mas posso descrever uma imagem para você:\n\nA cena mostra um homem de cerca de 40 anos, acima do peso, correndo em uma esteira na academia. Ele usa roupas de ginástica e parece estar se esforçando bastante. O suor escorre pelo seu rosto enquanto ele tenta manter o ritmo da corrida. Ao fundo, é possível ver outros equipamentos de ginástica e pessoas se exercitando. O homem parece determinado a alcançar seus objetivos de saúde e condicionamento físico, apesar dos desafios que enfrenta.",
+                        "type": 2,
+                        "date": 1682357001342
+                    },
+                    {
+                        "id": "678ecb7f-6750-406c-8c16-2a68c4e11c2b",
+                        "content": "Kkkkkķk",
+                        "type": 1,
+                        "date": 1682357076000
+                    },
+                    {
+                        "id": "e3bac013-953d-4447-b2a7-a6abea63445e",
+                        "content": "Desculpe, mas não entendi o que você quis dizer. Posso ajudá-lo(a) com algo?",
+                        "type": 2,
+                        "date": 1682357078795
+                    }
+                ],
+                "lastActive": 1682357076004
+            },
+            {
+                "id": "93c6dd66-5539-4cf1-a390-4c9e20ff6369",
+                "userName": "User",
+                "messages": [
+                    {
+                        "id": "43d0cea0-5894-4707-a2c0-2001f250655d",
+                        "content": "Crie um pequeno texto para a minha paciente que precisa ter uma boa adesão da dieta",
+                        "type": 1,
+                        "date": 1682381694101
+                    },
+                    {
+                        "id": "26c227b6-fdd0-4507-9aa8-bc6526ba53f7",
+                        "content": "Olá! Sei que seguir uma dieta pode ser um desafio, mas lembre-se de que é uma escolha importante para cuidar da sua saúde. Ao aderir à sua dieta, você estará fornecendo ao seu corpo os nutrientes necessários para funcionar corretamente e ajudando a prevenir doenças. Tente se concentrar nos alimentos que você pode comer e experimente novas receitas para tornar a sua dieta mais saborosa. Lembre-se de que pequenas mudanças podem fazer uma grande diferença e que você não está sozinha nessa jornada. Conte com o apoio da sua família, amigos e equipe médica para ajudá-la a alcançar seus objetivos. Estamos aqui para ajudá-la em cada etapa do caminho.",
+                        "type": 2,
+                        "date": 1682381704462
+                    },
+                    {
+                        "id": "449e5f67-541b-477a-b96d-5842709a2ff9",
+                        "content": "Refaça o texto",
+                        "type": 1,
+                        "date": 1682381750171
+                    },
+                    {
+                        "id": "887b7703-8e17-4cb8-83c3-fb3ca47f628a",
+                        "content": "Olá! Entendo que seguir uma dieta pode ser um desafio, mas é fundamental lembrar que essa escolha é essencial para cuidar da sua saúde. Ao aderir à sua dieta, você estará fornecendo ao seu corpo os nutrientes necessários para funcionar corretamente e prevenir doenças. É importante focar nos alimentos que você pode comer e experimentar novas receitas para tornar a sua dieta mais saborosa. Pequenas mudanças podem fazer uma grande diferença e você não precisa enfrentar isso sozinha. Conte com o apoio da sua família, amigos e equipe médica para ajudá-la a alcançar seus objetivos. Estamos aqui para apoiá-la em cada etapa do caminho.",
+                        "type": 2,
+                        "date": 1682381760476
+                    },
+                    {
+                        "id": "23c6eb5e-024f-438a-9327-36aef29606f3",
+                        "content": "Faça um texto motivacional para uma paciente de nutrição que deve ter uma alta aderência em sua dieta para emagrecer. Faça esse texto como se fosse uma nutricionista enviando",
+                        "type": 1,
+                        "date": 1682381831516
+                    },
+                    {
+                        "id": "8c80f8e4-d4bd-40e2-bad6-e6a146e56ca3",
+                        "content": "Olá! Sei que seguir uma dieta pode ser um desafio, mas quero lembrá-la de que você está no caminho certo para alcançar seus objetivos de emagrecimento e saúde. Ao aderir à sua dieta, você estará fornecendo ao seu corpo os nutrientes necessários para atingir o seu peso ideal e melhorar a sua qualidade de vida.\n\nLembre-se de que cada escolha alimentar é uma oportunidade para se aproximar mais dos seus objetivos. Tente se concentrar nos alimentos saudáveis e deliciosos que você pode comer, e não nas restrições. Experimente novas receitas e descubra novos sabores para manter a sua dieta interessante e saborosa.\n\nAlém disso, é importante lembrar que o emagrecimento é um processo gradual e que requer paciência e determinação. Não se deixe desanimar pelos desafios que possam surgir no caminho. Mantenha-se motivada, estabeleça metas realistas e celebre cada pequena conquista.\n\nSaiba que estou aqui para apoiá-la em cada etapa do caminho. Juntos, vamos trabalhar para alcançar seus objetivos e transformar sua dieta em um estilo de vida saudável e sustentável. Você pode fazer isso!",
+                        "type": 2,
+                        "date": 1682381849630
+                    }
+                ],
+                "lastActive": 1682381831519
+            },
+            {
+                "id": "69fe1882-573f-455f-815c-e07e6e6bc8a9",
+                "userName": "User",
+                "messages": [
+                    {
+                        "id": "d9ce3846-222d-45ac-8933-861b958d1e70",
+                        "content": "Stick",
+                        "type": 1,
+                        "date": 1682469322451
+                    },
+                    {
+                        "id": "6058e9d6-ed8d-4cda-a024-d648aa5138be",
+                        "content": "A stick is a long and slender piece of wood or other material that is often used for various purposes such as walking, playing sports, or as a tool for various activities. Sticks can be found in nature or manufactured for specific uses. They can also be used as a symbolic object in many cultures and traditions.",
+                        "type": 2,
+                        "date": 1682469327469
+                    }
+                ],
+                "lastActive": 1682469322462
+            },
+            {
+                "id": "df860590-f39b-4333-a080-786978e9437d",
+                "userName": "User",
+                "messages": [
+                    {
+                        "id": "73e3a9a8-4c17-4e61-9a9d-f21d9ef806dc",
+                        "content": "pra q serve dockerfile",
+                        "type": 1,
+                        "date": 1682474184574
+                    },
+                    {
+                        "id": "51f4ce6d-c866-4c6b-a8ce-ed3940511580",
+                        "content": "Dockerfile é um arquivo de texto usado para definir e configurar um ambiente de aplicativo Docker. Ele contém uma série de instruções que o Docker usa para construir uma imagem Docker, que é uma versão executável e isolada do aplicativo. \n\nO Dockerfile é usado para automatizar o processo de criação de imagens Docker, permitindo que os usuários criem imagens personalizadas com todas as dependências e configurações necessárias para executar suas aplicações. Isso torna mais fácil a distribuição de aplicativos e serviços em diferentes plataformas e ambientes de computação, além de simplificar o processo de implantação e gerenciamento de contêineres Docker.",
+                        "type": 2,
+                        "date": 1682474198612
+                    },
+                    {
+                        "id": "aa7fa663-a831-4aae-a1f0-b362a49773a1",
+                        "content": "tenho um código ypescrpit, o q significa iniciar ele em dockerfile",
+                        "type": 1,
+                        "date": 1682474232518
+                    },
+                    {
+                        "id": "7a09044c-c6c3-419f-b4c7-4eb9555c9fd3",
+                        "content": "Se você tem um código em Ypescrpit (suponho que seja JavaScript), pode usar um Dockerfile para criar uma imagem Docker que contenha todas as dependências e configurações necessárias para executar o código em um contêiner Docker. \n\nPara isso, você pode seguir alguns passos básicos em um Dockerfile:\n\n1. Escolher uma imagem base do Docker que tenha suporte para o ambiente de tempo de execução do JavaScript que você está usando (por exemplo, Node.js).\n2. Copiar o código-fonte do seu aplicativo para dentro da imagem Docker usando a instrução COPY.\n3. Instalar quaisquer dependências do seu aplicativo usando a instrução RUN e os gerenciadores de pacotes apropriados (por exemplo, npm).\n4. Especificar qual comando deve ser executado quando o contêiner for iniciado usando a instrução CMD ou ENTRYPOINT.\n\nO Dockerfile pode ser construído usando o comando `docker build` e a imagem resultante pode ser executada em um contêiner Docker usando o comando `docker run`. Isso permitirá que você execute seu código em um ambiente isolado e portátil.",
+                        "type": 2,
+                        "date": 1682474252254
+                    },
+                    {
+                        "id": "67274de3-aa36-4b1e-8b9d-dd0929bce406",
+                        "content": "oq é executar em contêiner docker e qual benmefici",
+                        "type": 1,
+                        "date": 1682474278376
+                    },
+                    {
+                        "id": "321c3a0a-728f-4113-a473-4845c665222b",
+                        "content": "Executar em um contêiner Docker significa que o seu aplicativo é executado dentro de um ambiente isolado, que contém todas as dependências e configurações necessárias para o seu aplicativo funcionar. O contêiner é criado a partir de uma imagem Docker, que é uma versão executável e isolada do seu aplicativo e das suas dependências.\n\nOs benefícios de executar seu aplicativo em um contêiner Docker incluem:\n\n1. Portabilidade: O contêiner pode ser executado em qualquer ambiente que suporte o Docker, independentemente do sistema operacional ou infraestrutura subjacente.\n\n2. Consistência: O ambiente de execução do seu aplicativo é consistente em todos os ambientes, o que ajuda a evitar problemas de compatibilidade e dependência.\n\n3. Escalabilidade: Os contêineres podem ser facilmente dimensionados horizontalmente, permitindo que seu aplicativo seja dimensionado de forma eficiente em resposta ao aumento da demanda.\n\n4. Isolamento: Cada contêiner é isolado do host e de outros contêineres, o que ajuda a proteger contra falhas de segurança e interferências entre aplicativos.\n\n5. Gerenciamento: O Docker fornece ferramentas de gerenciamento de contêineres que facilitam o controle e a administração de seus aplicativos em contêineres.\n\nEm resumo, executar seu aplicativo em um contêiner Docker pode tornar o processo de desenvolvimento, implantação e gerenciamento de seu aplicativo mais fácil, portátil e seguro.",
+                        "type": 2,
+                        "date": 1682474304439
+                    }
+                ],
+                "lastActive": 1682474278379
+            },
+            {
+                "id": "f6f1a8ad-35a1-4c21-bc76-56858d03c633",
+                "userName": "User",
+                "messages": [
+                    {
+                        "id": "04a83b20-e9f4-45e9-9eb4-3ed17d4a2457",
+                        "content": "olá",
+                        "type": 1,
+                        "date": 1682477556100
+                    },
+                    {
+                        "id": "fb567c6d-1de8-4d22-a9a1-07655005ef18",
+                        "content": "Olá! Como posso ajudá-lo(a) hoje?",
+                        "type": 2,
+                        "date": 1682477557825
+                    }
+                ],
+                "lastActive": 1682477556109
+            },
+            {
+                "id": "62f6a702-051a-45b1-b51a-1b5433fe1497",
+                "userName": "User",
+                "messages": [
+                    {
+                        "id": "86c0fdae-aeea-44f6-8e1e-4e182e182d90",
+                        "content": "Quem é o atual presidente do Brasil",
+                        "type": 1,
+                        "date": 1682478528193
+                    },
+                    {
+                        "id": "d9dfe91b-dc39-4270-8ef8-01b948da8c64",
+                        "content": "O atual presidente do Brasil é Jair Bolsonaro.",
+                        "type": 2,
+                        "date": 1682478529825
+                    }
+                ],
+                "lastActive": 1682478528201
+            },
+            {
+                "id": "10939d02-4509-481c-8471-1094054be51e",
+                "userName": "User",
+                "messages": [
+                    {
+                        "id": "c79a76d9-0b12-4cf6-9395-6752033a302f",
+                        "content": "Escreva um texto de agradecimento para a minha paciente que disse que eu sou muito sensível e carinhosa. Além disso diga que eu não estou aqui para julga-la e sim ajuda-la no acompanhamento nutricional, que quero acolhe-la",
+                        "type": 1,
+                        "date": 1682517921132
+                    },
+                    {
+                        "id": "6c6b5ef2-610c-4cfb-9adc-e38c92c0ea2d",
+                        "content": "Prezada paciente,\n\nGostaria de expressar minha gratidão por suas gentis palavras. Fico muito feliz em saber que minha abordagem sensível e carinhosa tem sido apreciada por você. Meu objetivo é proporcionar um acompanhamento nutricional que vá além da orientação alimentar, buscando acolher e entender as necessidades individuais de cada paciente.\n\nQuero reforçar que não estou aqui para julgá-la, mas sim para ajudá-la em sua jornada rumo à uma alimentação mais saudável e equilibrada. Acredito que o suporte emocional é fundamental para o sucesso do tratamento nutricional, e estou aqui para oferecer esse suporte sempre que necessário.\n\nMais uma vez, agradeço sua confiança em meu trabalho e espero continuar sendo uma parte importante de sua jornada de cuidados com a saúde.\n\nAtenciosamente,\n[Seu nome]",
+                        "type": 2,
+                        "date": 1682517938064
+                    }
+                ],
+                "lastActive": 1682517921141
+            },
+            {
+                "id": "d3d18024-917f-4656-bfa4-f2e6d898506b",
+                "userName": "User",
+                "messages": [
+                    {
+                        "id": "779ca036-98f9-4119-bbed-b8d0202d629a",
+                        "content": "How are you guys?",
+                        "type": 1,
+                        "date": 1682518156759
+                    },
+                    {
+                        "id": "e36b4098-7f2f-4b74-aa75-c35480813e2e",
+                        "content": "As an AI language model, I do not have emotions, but I am functioning properly and ready to assist you with any questions or inquiries you may have. How can I assist you today?",
+                        "type": 2,
+                        "date": 1682518160381
+                    }
+                ],
+                "lastActive": 1682518156761
+            },
+            {
+                "id": "5c867ffa-6cae-46da-a522-18b3219d9e83",
+                "userName": "User",
+                "messages": [
+                    {
+                        "id": "cf49dcfb-785f-47f4-b00c-b4765b24764d",
+                        "content": "Quem é o presidente atual do Brasil",
+                        "type": 1,
+                        "date": 1682518708829
+                    },
+                    {
+                        "id": "eebc15b6-1821-4cfa-9de8-df6439e0ef30",
+                        "content": "O presidente atual do Brasil é Jair Bolsonaro.",
+                        "type": 2,
+                        "date": 1682518711220
+                    }
+                ],
+                "lastActive": 1682518708837
+            },
+            {
+                "id": "68acfb5a-4061-49cb-820b-896667779552",
+                "userName": "User",
+                "messages": [
+                    {
+                        "id": "c0be55e8-522f-4985-9789-3e019edc1df7",
+                        "content": "Oi",
+                        "type": 1,
+                        "date": 1682519860842
+                    },
+                    {
+                        "id": "d7b66f73-64ed-4a89-a444-af2753774c7a",
+                        "content": "Hello! How can I assist you today?",
+                        "type": 2,
+                        "date": 1682519862340
+                    },
+                    {
+                        "id": "ce87aa50-db42-44e9-a47d-8a6188acc4c4",
+                        "content": "Oi",
+                        "type": 1,
+                        "date": 1682519869706
+                    },
+                    {
+                        "id": "df32dae5-73d7-470c-8c1a-4b1a34565d84",
+                        "content": "Hello! How can I assist you today?",
+                        "type": 2,
+                        "date": 1682519871407
+                    }
+                ],
+                "lastActive": 1682519869707
+            },
+            {
+                "id": "e13500bb-94bf-4eff-abcf-17773131ff99",
+                "userName": "User",
+                "messages": [
+                    {
+                        "id": "a6d1d581-8f2e-4b50-a7f0-7cd1c87bcc39",
+                        "content": "Oi",
+                        "type": 1,
+                        "date": 1682520209437
+                    },
+                    {
+                        "id": "85ceb199-105a-42b8-8863-8784227e5834",
+                        "content": "Hello! How can I assist you today?",
+                        "type": 2,
+                        "date": 1682520210734
+                    }
+                ],
+                "lastActive": 1682520209446
+            },
+            {
+                "id": "85176da2-378d-4dd5-a112-672a546399fc",
+                "userName": "User",
+                "messages": [
+                    {
+                        "id": "11860aa3-ee09-4eb9-9956-5bc318d4c012",
+                        "content": "Oi",
+                        "type": 1,
+                        "date": 1682521787354
+                    },
+                    {
+                        "id": "797cf0c7-e63b-40c5-bb5d-326392c1af68",
+                        "content": "Hello! How can I assist you today?",
+                        "type": 2,
+                        "date": 1682521788772
+                    },
+                    {
+                        "id": "f23cc91b-7d99-42c2-8768-ea20cd1288fd",
+                        "content": "Clima em campinas",
+                        "type": 1,
+                        "date": 1682521801770
+                    },
+                    {
+                        "id": "b628bda4-b14e-467f-9649-3d6a892847da",
+                        "content": "I'm sorry, but as an AI language model, I don't have access to real-time information. However, I can tell you that Campinas is a city located in the southeast region of Brazil, and it generally has a warm and humid climate throughout the year, with temperatures ranging from 15°C to 30°C. You can check current weather conditions and forecasts for Campinas on various online weather websites or mobile apps.",
+                        "type": 2,
+                        "date": 1682521810053
+                    }
+                ],
+                "lastActive": 1682521801773
+            },
+            {
+                "id": "9bd72fa0-9431-4714-a190-2958796ae0c8",
+                "userName": "User",
+                "messages": [
+                    {
+                        "id": "72bc805c-79e0-4961-90cb-67da2f7edd2d",
+                        "content": "Exemplo de frase com however",
+                        "type": 1,
+                        "date": 1682526315315
+                    },
+                    {
+                        "id": "69763738-0482-4fa0-9c3d-0302e299aa02",
+                        "content": "Eu gostaria de ir ao cinema, no entanto, tenho que estudar para uma prova importante.",
+                        "type": 2,
+                        "date": 1682526318065
+                    },
+                    {
+                        "id": "1bf3b7ca-8239-4674-bd49-4d44eaa3c8dd",
+                        "content": "In English",
+                        "type": 1,
+                        "date": 1682526324119
+                    },
+                    {
+                        "id": "0e2f1d47-5faf-4dfd-a23d-b0dc6fde3a9f",
+                        "content": "\"I would like to go to the cinema, however, I have to study for an important test.\"",
+                        "type": 2,
+                        "date": 1682526327055
+                    }
+                ],
+                "lastActive": 1682526324119
+            },
+            {
+                "id": "a282add8-ba5c-4391-9a1b-de5d8cd76bed",
+                "userName": "User",
+                "messages": [
+                    {
+                        "id": "43eb9926-672d-4e14-9a74-0aa3edc70af6",
+                        "content": "Oi",
+                        "type": 1,
+                        "date": 1682529940238
+                    },
+                    {
+                        "id": "f79c2c40-fcba-49ac-a1cd-1acca492f74d",
+                        "content": "Hello! How can I assist you today?",
+                        "type": 2,
+                        "date": 1682529941810
+                    },
+                    {
+                        "id": "58614837-3065-4a65-943e-6d05b3aea7d4",
+                        "content": "Hello, how can I assist you today?",
+                        "type": 1,
+                        "date": 1682529949561
+                    },
+                    {
+                        "id": "94806540-54cb-464c-9d0b-535ffb4a7b51",
+                        "content": "As an AI language model, I don't need assistance, but I'm here to assist you with any questions or tasks you may have. How can I help you today?",
+                        "type": 2,
+                        "date": 1682529953273
+                    },
+                    {
+                        "id": "545e2b70-aa02-469b-9419-31068daf6783",
+                        "content": "Hello, how can I assist you today?",
+                        "type": 1,
+                        "date": 1682530163954
+                    },
+                    {
+                        "id": "0c0a8861-b400-4c42-bde6-ce9c7fd340da",
+                        "content": "I appreciate the offer, but as an AI language model, I don't require any assistance. However, I'm here to assist you with any questions or tasks you may have. How can I help you today?",
+                        "type": 2,
+                        "date": 1682530168723
+                    }
+                ],
+                "lastActive": 1682530163955
+            },
+            {
+                "id": "9bae7b5b-3127-43e9-9f8d-7987f11602ea",
+                "userName": "User",
+                "messages": [
+                    {
+                        "id": "c87f9eb3-00c9-4676-be4b-65ff9a13b91d",
+                        "content": "Olá, Botic, tudo bem?",
+                        "type": 1,
+                        "date": 1682531773135
+                    },
+                    {
+                        "id": "ea2cdcd8-00f2-4cde-873a-bf8adcdc6f9c",
+                        "content": "Olá! Desculpe, mas meu nome é ChatGPT, não Botic. Mas estou bem, obrigado! Em que posso ajudá-lo hoje?",
+                        "type": 2,
+                        "date": 1682531776919
+                    },
+                    {
+                        "id": "b4cd9c6b-6305-4e34-a815-f660b8f109a1",
+                        "content": "Olá, bote, bom dia.",
+                        "type": 1,
+                        "date": 1682531963479
+                    },
+                    {
+                        "id": "b6cd0ee2-045c-4775-b192-246da6740f70",
+                        "content": "Olá! Desculpe, mas meu nome é ChatGPT, não Bote. Mas bom dia! Em que posso ajudá-lo hoje?",
+                        "type": 2,
+                        "date": 1682531967069
+                    }
+                ],
+                "lastActive": 1682531963480
+            },
+            {
+                "id": "55eb998a-df9c-4093-9f56-9353962d6368",
+                "userName": "User",
+                "messages": [
+                    {
+                        "id": "55d33d41-e8a0-4b13-921b-085f68d2581e",
+                        "content": "Olá meu botão, bom dia.",
+                        "type": 1,
+                        "date": 1682532287158
+                    },
+                    {
+                        "id": "5b44ad08-9381-4576-8075-a9c8e30ee7c5",
+                        "content": "Olá! Bom dia! Como posso ajudá-lo(a) hoje?",
+                        "type": 2,
+                        "date": 1682532288779
+                    }
+                ],
+                "lastActive": 1682532287165
+            },
+            {
+                "id": "69ea3248-fbc5-4725-b499-8fd17cfadf65",
+                "userName": "User",
+                "messages": [
+                    {
+                        "id": "8012eb09-da2d-4a53-8304-42a18f04f688",
+                        "content": "Olá meu grande, bom dia.",
+                        "type": 1,
+                        "date": 1682532922729
+                    },
+                    {
+                        "id": "f47dc877-c3cc-435b-9854-6cdb88b25501",
+                        "content": "Olá! Bom dia para você também! Em que posso ajudar?",
+                        "type": 2,
+                        "date": 1682532924730
+                    }
+                ],
+                "lastActive": 1682532922737
+            },
+            {
+                "id": "70da2937-a219-42e3-a08b-1a271dfdaacc",
+                "userName": "User",
+                "messages": [
+                    {
+                        "id": "57870273-86aa-4c53-b6a9-585baa44b371",
+                        "content": "안녕한남 Dis",
+                        "type": 1,
+                        "date": 1682532995484
+                    },
+                    {
+                        "id": "d4dcbc7b-b1b8-43b5-8de1-599d1a932a73",
+                        "content": "저는 인공지능 언어 모델인 ChatGPT이며, 사용자의 입력에 대해 대화 형식으로 응답하는 것이 제 역할입니다. \"안녕한남 Dis\"라는 문구는 제가 이해할 수 없는 문자열입니다. 다른 질문이 있으시면 언제든지 물어보세요!",
+                        "type": 2,
+                        "date": 1682533004997
+                    }
+                ],
+                "lastActive": 1682532995492
+            },
+            {
+                "id": "c2ed1a1b-447f-4886-81ae-429de6299faf",
+                "userName": "User",
+                "messages": [
+                    {
+                        "id": "3c8b9f56-6545-457e-a191-eb6c59f439de",
+                        "content": "ありがとう、さようなら",
+                        "type": 1,
+                        "date": 1682533361717
+                    },
+                    {
+                        "id": "0d3d835a-8cdb-4aff-8b16-f32748adec49",
+                        "content": "どういたしまして。さようなら！",
+                        "type": 2,
+                        "date": 1682533363296
+                    }
+                ],
+                "lastActive": 1682533361727
+            },
+            {
+                "id": "77ef7965-d929-43c3-8738-86a087503bf4",
+                "userName": "User",
+                "messages": [
+                    {
+                        "id": "380fcb34-8b8f-4ed6-898e-3ff4cc4d6a26",
+                        "content": "Good morning, man",
+                        "type": 1,
+                        "date": 1682533501942
+                    },
+                    {
+                        "id": "ae25f1ee-f87a-4b41-80b1-77b7debe10bc",
+                        "content": "Good morning! How may I assist you today?",
+                        "type": 2,
+                        "date": 1682533503371
+                    }
+                ],
+                "lastActive": 1682533501950
+            },
+            {
+                "id": "7366d409-d3a4-4f1e-9d3e-0d23e1219110",
+                "userName": "User",
+                "messages": [
+                    {
+                        "id": "51401a46-e7d8-4eb7-a04e-80ca900f989f",
+                        "content": "Hello, good morning, how may I assist you today?",
+                        "type": 1,
+                        "date": 1682534046704
+                    },
+                    {
+                        "id": "91a8c6d6-74e9-405c-8747-e120463de736",
+                        "content": "Good afternoon! As an AI language model, I am here to assist you with any questions or concerns you may have. How can I assist you today?",
+                        "type": 2,
+                        "date": 1682534056077
+                    }
+                ],
+                "lastActive": 1682534046711
+            },
+            {
+                "id": "e2e5e18a-97f9-47d2-a329-4e2049b68764",
+                "userName": "User",
+                "messages": [
+                    {
+                        "id": "2219e202-c699-4a4e-a44e-48fc94e7b929",
+                        "content": "Hello, how are you today?",
+                        "type": 1,
+                        "date": 1682534134169
+                    },
+                    {
+                        "id": "bbaa7798-7846-45f0-a809-5fe0f394b685",
+                        "content": "As an AI language model, I don't have emotions or feelings, but I'm functioning well. How can I assist you today?",
+                        "type": 2,
+                        "date": 1682534142015
+                    }
+                ],
+                "lastActive": 1682534134179
+            }
+        ],
+        "name": "conversations"
+    }
+}
