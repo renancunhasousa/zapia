@@ -52,7 +52,10 @@ const dbPromise = open({ filename: "configs.db", driver: sqlite3.Database });
 		limitedInteractions INTEGER,
 		urlShorten TEXT,
 		isFirstTime INTEGER,
-		authorizedCommand INTEGER
+		authorizedCommand INTEGER,
+		langChainPrefix TEXT,
+		searchTool INTEGER,
+		targetUserPhone INTEGER
 	  );
 	  
 	`);
