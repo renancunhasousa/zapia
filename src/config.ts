@@ -144,7 +144,7 @@ const defaultConfig: IConfig = {
 
 	// Prompt Moderation
 	promptModerationEnabled: getEnvBooleanWithDefault("PROMPT_MODERATION_ENABLED", false), // Default: false
-	promptModerationBlacklistedCategories: getEnvPromptModerationBlacklistedCategories(), // Default: ["hate", "hate/threatening", "self-harm", "sexual", "sexual/minors", "violence", "violence/graphic"]
+	promptModerationBlacklistedCategories: getEnvPromptModerationBlacklistedCategories(), // Default: "ódio,ódio/ameaçador,auto-multilação,sexual,sexual/menores,violência,violência/gráfica, hatred,hatred/threatening,self-injury,sexual,sexual/underage,violence,violence/graphic"
 
 	// AWS
 	awsAccessKeyId: process.env.AWS_ACCESS_KEY_ID || "", // Default: ""
@@ -220,11 +220,12 @@ function getEnvBooleanWithDefault(key: string, defaultValue: boolean): boolean {
 function getEnvPromptModerationBlacklistedCategories(): string[] {
 	const envValue = process.env.PROMPT_MODERATION_BLACKLISTED_CATEGORIES;
 	if (envValue == undefined || envValue == "") {
-		return ["hate", "hate/threatening", "self-harm", "sexual", "sexual/minors", "violence", "violence/graphic"];
+		return ["ódio,ódio/ameaçador,auto-multilação,sexual,sexual/menores,violência,violência/gráfica, hatred,hatred/threatening,self-injury,sexual,sexual/underage,violence,violence/graphic"];
 	} else {
-		return JSON.parse(envValue.replace(/'/g, '"'));
+		return envValue.split(',');
 	}
 }
+
 
 /**
  * Get the transcription mode from the environment variable
