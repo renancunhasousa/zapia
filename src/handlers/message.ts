@@ -40,7 +40,7 @@ export function searchKnowledgeBase(messageText) {
 		".stk",
 		".clm",
 		".rst",
-		".set",
+		".cfg",
 		".bot",
 		".aud",
 		".url",
@@ -272,8 +272,8 @@ async function handleIncomingMessage(message: any, userConfig: IConfig) {
 		// Check transcription is empty (silent voice message)
 		if (transcribedText.length == 0) {
 			message.reply(
-				"💬 _Desculpe, não consegui entender o que você disse_\n\n"+
-				"💬 _I'm sorry, I couldn't understand what you said_");
+				"💬 _Desculpe, não consegui entender o que você disse. Tente alterar a plataforma de transcrição ccom comando 🕹 *.txt*, ou aguardade e tente novamente._\n\n"+
+				"💬 _I'm sorry, I couldn't understand what you said_. Try changing the transcription platform to 🕹 *.txt* format, or wait and try again later.");
 			return;
 		}
 
