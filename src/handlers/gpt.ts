@@ -90,7 +90,7 @@ const handleMessageGPT = async (message: Message, prompt: string, userConfig: IC
 	} catch (error: any) {
 		console.error("An error occured", error);
 		message.reply(
-			"*Um erro ocorreu/An error occured*\n\n"+
+			"*Sorry 😥*\n\n"+
 			"💬 _Aguarde uns pouco e tente novamente_\n\n💬 _Please wait a little while and try again_\n\n\t(" + error.message + ")");
 	}
 };
