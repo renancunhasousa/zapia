@@ -1,0 +1,51 @@
+{
+	"name": "zapia",
+	"version": "1.0.0",
+	"description": "Whatsapp bot que usa ChatGPT & DALLE para responder o usuário",
+	"main": "src/index.ts",
+	"author": "renancunhasousa",
+	"scripts": {
+		"start": "npx vite-node src/index.ts",
+		"prettier": "prettier --write ."
+	},
+	"license": "MIT",
+	"dependencies": {
+		"@clack/prompts": "^0.7.0",
+		"aws-sdk": "^2.1359.0",
+		"axios": "^1.3.6",
+		"canvas": "^2.11.2",
+		"dotenv": "^16.0.3",
+		"file-type": "^18.6.0",
+		"fs": "^0.0.1-security",
+		"jimp": "^0.22.10",
+		"langchain": "^0.0.64",
+		"midjourney-client": "^1.0.8",
+		"node-cron": "^3.0.2",
+		"node-fetch": "^3.3.2",
+		"openai": "^4.19.0",
+		"picocolors": "^1.0.0",
+		"pm2": "^5.3.0",
+		"puppeteer": "^19.8.0",
+		"qrcode-terminal": "^0.12.0",
+		"replicate": "^0.9.0",
+		"sqlite": "^4.1.2",
+		"sqlite3": "^5.1.6",
+		"stripe": "^14.7.0",
+		"tmp-promise": "^3.0.3",
+		"whatsapp-web.js": "https://github.com/Julzk/whatsapp-web.js/tarball/jkr_hotfix_7",
+		"ytdl-core": "^4.11.3"
+	},
+	"engines": {
+		"node": ">=18.0.0"
+	},
+	"devDependencies": {
+		"@typescript-eslint/eslint-plugin": "^6.12.0",
+		"eslint": "^8.54.0",
+		"eslint-config-standard-with-typescript": "^40.0.0",
+		"eslint-plugin-import": "^2.29.0",
+		"eslint-plugin-n": "^16.3.1",
+		"eslint-plugin-promise": "^6.1.1",
+		"eslint-plugin-unused-imports": "^3.0.0",
+		"typescript": "^5.0.4"
+	}
+}
